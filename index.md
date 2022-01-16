@@ -15,3 +15,12 @@
     {% endfor %}
   </ul>
 {% endfor %}
+
+<ul>
+  {% for post in site.pages %}
+    <li>
+      <a href=".{{ post.url }}">{{ post.title }}</a>
+      {{ post.date }}
+    </li>
+  {% endfor %}
+</ul>　　
