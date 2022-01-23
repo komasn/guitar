@@ -1,10 +1,10 @@
 ---
-title: "Cマイナーコード"
+title: "Bマイナーコード"
 date: 2022-01-16 18:00
 category: マイナーコード
 ---  
 # {{ page.title }}
-<p>Cマイナーコードの押さえかたです。</p>
+<p>Bマイナーコードの押さえかたです。</p>
 ## バレーコード
 
 <p>4本の指で弦を押さえます。</p>
@@ -16,7 +16,7 @@ category: マイナーコード
 
 <p>弦を押さえない親指を使い、6弦をミュートしてください。</p>
 
-![code](/assets/images/cm.png)
+![code](/assets/images/bm.png)
 ## その他の押さえ方
 
 <p>{{ page.date }}</p>
