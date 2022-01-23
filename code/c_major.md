@@ -8,7 +8,10 @@ category: メジャーコード
 ## ローコード
 ![c](/assets/images/c.png)
 ## バレーコード
+![c_barre](/assets/images/c_barre.png)
+![c_barre_2](/assets/images/c_barre_2.png)
 ## パワーコード
+![c_power](/assets/images/c_power.png)
 ## その他の押さえ方
 
 <p>{{ page.date }}</p>
