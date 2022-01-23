@@ -6,6 +6,15 @@ category: メジャーコード
 # {{ page.title }}
 <p>Cメジャーコードの押さえかたです。</p>
 ## ローコード
+
+<p>3本の指で弦を押さえます。</p>
+
+- 人差し指
+- 中指
+- 薬指
+
+<p>弦を押さえない親指を使い、6弦をミュートしてください。</p>
+
 ![c](/assets/images/c.png)
 ## バレーコード
 ![c_barre](/assets/images/c_barre.png)
