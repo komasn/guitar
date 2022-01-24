@@ -27,5 +27,15 @@ category: メジャーコード
 <p>ルートのオクターブを追加する場合もあります。</p>
 ![c_power_2](/assets/images/c_power_2.png)
 ## その他の押さえ方
+<p>1弦、2弦、3弦を使う弾き方です。</p>
+![tri](/assets/images/c_tri_1.png)
+![tri](/assets/images/c_tri_2.png)
+![tri](/assets/images/c_tri_3.png)
+<p>2弦、3弦、4弦を使う弾き方です。</p>
+![tri](/assets/images/c_tri_4.png)
+![tri](/assets/images/c_tri_5.png)
+![tri](/assets/images/c_tri_6.png)
+<p>3弦、4弦、5弦を使う弾き方です。</p>
+![tri](/assets/images/c_tri_7.png)
 
 <p>{{ page.date }}</p>
